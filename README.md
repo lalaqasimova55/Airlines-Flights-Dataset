@@ -14,8 +14,7 @@ The main goal of this project is to better understand the key factors that influ
 
 ### Dataset
 
-The dataset used in this project is publicly available on Kaggle: 
-https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data
+The dataset used in this project is publicly available on Kaggle:  https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data
 
 ### Key Insights
 
