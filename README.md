@@ -14,11 +14,10 @@ The main goal of this project is to better understand the key factors that influ
 
 ### Dataset
 
-The dataset used in this project is publicly available on Kaggle:
-
+The dataset used in this project is publicly available on Kaggle: 
 https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data
 
-### Key Insights from EDA
+### Key Insights
 
 - Business class tickets are significantly more expensive than economy class.
 - Ticket prices increase as the departure date gets closer.
